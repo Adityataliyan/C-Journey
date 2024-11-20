@@ -8,7 +8,7 @@ void main()
   scanf("%f",&R);
   A=2*3.14*R;
   P=3.14*(R*R);
-  printf("The Area of circle = %d",A);
-  printf("The Perimeter of circle =%d,P);
+  printf("The Area of circle = %f",A);
+  printf("The Perimeter of circle =%f,P);
   getch();
   }
