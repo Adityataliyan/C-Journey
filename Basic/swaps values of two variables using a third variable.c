@@ -7,10 +7,11 @@ void main()
   printf("Enter the A :");
   scanf("%d",&A);
   printf("Enter the B :");
+  scanf("%d",&B);
   C=A;
   A=B;
   B=C;
-  printf("A=",A);
-  printf("B=",B);
+  printf("A=%d",A);
+  printf("B=%d",B);
   getch();
 }
