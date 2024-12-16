@@ -7,7 +7,7 @@ void main()
   printf("Enter the digit :");
   scanf("%d",&N);
   while(N!=0)
-  {
+  { 
     R=N%10;
     R=(R*10)+R:
     N=N/10;
