@@ -4,7 +4,8 @@ enum week {Mon,Tues, Wed, Thu,Fri,Sat,Sun};
 void main()
 {
   clrscr();
-enum week today = Wed;
-printf("The week associate is %d",today);
-getch();
+  enum week today; 
+  today = Wed;
+p  rintf("The week associate is %d",today);
+  getch();
 }
