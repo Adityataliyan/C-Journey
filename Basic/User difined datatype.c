@@ -8,5 +8,5 @@ void main()
   printf("Enter the side of square :");
   scanf("%d",&side);
   printf("Area of square =%d",side*side);
-  getch()
+  getch();
 }
